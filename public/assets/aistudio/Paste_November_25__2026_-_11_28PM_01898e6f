@@ -1,0 +1,1084 @@
+# MASTER PROMPT — BUILD A PREMIUM, RESPONSIVE FURNITURE E-COMMERCE WEBSITE
+
+Act as a world-class UI/UX designer, senior frontend developer, e-commerce architect, and brand designer. Your task is to design and develop a complete, professional, production-quality furniture e-commerce website inspired by the attached visual reference image.
+
+I want you to recreate the same level of visual sophistication, premium atmosphere, elegant layout, spacing, and professional design quality while creating an entirely ORIGINAL brand identity, content, and website.
+
+The final result must look like a real, established luxury furniture brand website that a professional agency could deliver to a paying client.
+
+Do not simply create a basic template. Build a complete, polished, visually rich, fully responsive e-commerce experience.
+
+---
+
+## 1. PROJECT OBJECTIVE
+
+Create an elegant premium furniture e-commerce website with:
+
+- Luxury minimalist visual identity.
+- Modern Scandinavian and contemporary interior design aesthetics.
+- Warm neutral colors.
+- Large editorial-style furniture photography.
+- Elegant serif headings paired with clean sans-serif typography.
+- Beautiful product cards.
+- Spacious layouts and carefully balanced whitespace.
+- Professional navigation and shopping experience.
+- Conversion-focused buttons and product presentation.
+- Smooth animations and interactive elements.
+- Fully responsive desktop, tablet, and mobile layouts.
+
+Create an original fictional furniture brand called **AUREN LIVING**.
+
+Brand positioning:
+
+"Thoughtfully Designed. Beautifully Lived."
+
+The brand should communicate craftsmanship, comfort, timeless design, quality materials, and understated luxury.
+
+Do not use the reference website's brand name, logo, text, or exact business identity.
+
+---
+
+## 2. DESIGN DIRECTION AND VISUAL IDENTITY
+
+Use the attached reference image as the primary visual design guide.
+
+The overall design should feel:
+
+- Minimalist.
+- Premium.
+- Sophisticated.
+- Warm.
+- Architectural.
+- Contemporary.
+- Editorial.
+- Calm and inviting.
+- Expensive without looking overly decorative.
+
+Use a combination of Scandinavian furniture aesthetics, modern organic interiors, and luxury lifestyle branding.
+
+Avoid:
+
+- Bright, saturated colors.
+- Excessive gradients.
+- Heavy borders.
+- Overly rounded UI elements.
+- Cluttered layouts.
+- Cartoon-style icons.
+- Generic e-commerce template aesthetics.
+- Unnecessary decorative elements.
+
+The website should look carefully art-directed, as if designed by a premium furniture design studio.
+
+---
+
+## 3. COLOR PALETTE
+
+Use this carefully balanced color system:
+
+Primary background:
+
+- Warm Ivory: #F8F6F2
+- Soft White: #FFFFFF
+- Cream: #F1EDE6
+
+Secondary backgrounds:
+
+- Warm Beige: #E8E0D5
+- Light Sand: #DCD1C3
+
+Primary text:
+
+- Deep Charcoal: #242522
+- Soft Black: #30302D
+
+Secondary text:
+
+- Warm Gray: #77736D
+- Muted Taupe: #A49A8E
+
+Accent:
+
+- Dark Olive: #59604D
+- Natural Wood: #A77F5D
+
+Buttons:
+
+- Primary: #20221F
+- Primary hover: #41453C
+- Secondary: Transparent with subtle charcoal border.
+
+Maintain excellent contrast and accessibility.
+
+Use warm backgrounds instead of pure white everywhere. The website should have a natural, cohesive appearance.
+
+---
+
+## 4. TYPOGRAPHY SYSTEM
+
+Use premium typography.
+
+Heading fonts:
+
+- Cormorant Garamond, Playfair Display, or an equivalent elegant editorial serif.
+
+Body fonts:
+
+- Inter, DM Sans, or a similar modern sans-serif.
+
+Typography hierarchy:
+
+Main hero heading:
+
+- Large elegant serif.
+- Approximately 58–76px desktop.
+- Approximately 38–46px mobile.
+- Regular or medium weight.
+- Tight but comfortable line height.
+
+Section headings:
+
+- Approximately 34–44px desktop.
+- Approximately 28–34px mobile.
+
+Product titles:
+
+- 15–17px.
+- Medium weight.
+
+Body text:
+
+- 14–16px.
+- Comfortable line height.
+- Muted gray.
+
+Navigation:
+
+- 12–14px.
+- Clean typography.
+- Medium weight.
+
+Eyebrow labels:
+
+- Uppercase.
+- 9–11px.
+- Letter spacing approximately 1.5–2px.
+
+Never use oversized bold typography that makes the website feel generic.
+
+---
+
+## 5. HEADER AND NAVIGATION
+
+Create a professional two-level header inspired by the reference.
+
+### Top announcement bar
+
+A slim full-width charcoal or dark olive strip.
+
+Include three horizontally arranged information groups:
+
+Left:\
+"Complimentary Shipping on Orders Over $1,500"
+
+Center:\
+"Thoughtful Design. Lasting Quality."
+
+Right:\
+"Need Assistance? +1 (800) 555-0142"
+
+Use small icons and compact text.
+
+On mobile, simplify the announcement bar to one centered message.
+
+### Main navigation
+
+Create a clean white or ivory navigation section.
+
+Left:
+
+- Original AUREN LIVING wordmark.
+- Elegant serif lettering.
+- Small minimal furniture-inspired brand symbol if appropriate.
+
+Center:\
+Navigation links:
+
+- Shop
+- Collections
+- Living Room
+- Dining
+- Bedroom
+- Our Story
+- Journal
+
+Right:
+
+- Search icon.
+- Account icon.
+- Wishlist icon.
+- Shopping bag icon with dynamic cart count.
+
+Navigation requirements:
+
+- Sticky header on scroll.
+- Subtle background and shadow transition.
+- Elegant dropdown mega menus.
+- Smooth hover underline animations.
+- Proper mobile hamburger menu.
+- Accessible keyboard navigation.
+- Search interaction.
+- Working shopping bag icon.
+
+The header must remain visually clean and uncluttered.
+
+---
+
+## 6. HERO SECTION
+
+This is the most important visual section.
+
+Create a large, premium editorial hero section immediately below the navigation.
+
+### Hero image
+
+Use a beautiful, high-resolution, photorealistic luxury living room interior.
+
+The image should feature:
+
+- A sophisticated cream-colored modular sofa.
+- Natural wooden coffee table.
+- Elegant accent chair.
+- Warm beige cushions.
+- Natural stone or ceramic decorative objects.
+- Large contemporary artwork.
+- Architectural wall details.
+- Warm natural sunlight.
+- Subtle indoor greenery.
+- Premium Scandinavian interior styling.
+
+The room should look realistic, expensive, spacious, and professionally photographed.
+
+Image composition:
+
+- Wide landscape image.
+- Approximately 16:9 aspect ratio.
+- Full-width presentation.
+- Desktop height approximately 500–560px.
+- Mobile height approximately 500–560px.
+- Ensure the important furniture remains visible on smaller screens.
+
+Use a subtle left-side gradient or natural image contrast to make text readable.
+
+### Hero content
+
+Position the content toward the left side.
+
+Eyebrow:
+
+"TIMELESS CRAFTSMANSHIP. MODERN LIVING."
+
+Main heading:
+
+"Make Room for Beautiful Living."
+
+Supporting paragraph:
+
+"Discover thoughtfully crafted furniture that brings comfort, character, and timeless elegance to every corner of your home."
+
+Primary CTA:\
+"SHOP FURNITURE"
+
+Secondary CTA:\
+"EXPLORE COLLECTIONS"
+
+Primary button should have a dark background, ivory text, and subtle hover transition.
+
+Secondary button should have a transparent background with a thin dark border.
+
+Add a subtle entrance animation for the eyebrow, headline, paragraph, and buttons.
+
+Do not let text overlap important image subjects.
+
+---
+
+## 7. TRUST AND SERVICE BENEFITS BAR
+
+Directly beneath the hero, create a horizontal service-benefits strip.
+
+Use four equal-width columns with subtle vertical dividers on desktop.
+
+Each benefit should contain a minimal line icon, title, and short description.
+
+Benefit 1:\
+Icon: Truck\
+Title: Complimentary Shipping\
+Description: On qualifying orders.
+
+Benefit 2:\
+Icon: Rotate or Refresh\
+Title: Easy Returns\
+Description: Hassle-free 30-day returns.
+
+Benefit 3:\
+Icon: Shield Check\
+Title: Secure Checkout\
+Description: Protected payments every time.
+
+Benefit 4:\
+Icon: Headphones\
+Title: Personal Support\
+Description: Here whenever you need us.
+
+Use a light cream background.
+
+On mobile, display these benefits in a two-column grid.
+
+---
+
+## 8. SHOP BY CATEGORY SECTION
+
+Create a spacious category discovery section.
+
+Section eyebrow:\
+"EXPLORE OUR COLLECTIONS"
+
+Heading:\
+"Find Furniture for Every Room"
+
+Supporting description:\
+"Beautifully considered pieces for the spaces where life happens."
+
+Add a small "VIEW ALL CATEGORIES →" link aligned to the right on desktop.
+
+### Category cards
+
+Create five premium image-based category cards.
+
+Categories:
+
+1. Living Room
+2. Dining Room
+3. Bedroom
+4. Home Office
+5. Outdoor Living
+
+Each card should feature a unique, high-quality interior photograph.
+
+Image requirements:
+
+Living Room:\
+Contemporary cream sofa, warm wood coffee table, minimalist decor.
+
+Dining Room:\
+Natural oak dining table, elegant upholstered dining chairs, pendant lighting.
+
+Bedroom:\
+Neutral upholstered bed, soft linen bedding, warm natural lighting.
+
+Home Office:\
+Minimal wooden desk, sophisticated office chair, calm modern workspace.
+
+Outdoor Living:\
+Elegant outdoor lounge furniture, greenery, natural stone patio.
+
+### Card design
+
+- Landscape or near-square photographs.
+- Consistent image dimensions.
+- Subtle corner radius of approximately 8–12px.
+- Category title overlay near the bottom.
+- Small item count underneath.
+- Elegant dark translucent gradient at the bottom for readability.
+- Smooth image zoom on hover.
+- Subtle upward movement on hover.
+
+Desktop:\
+Five cards in one row.
+
+Tablet:\
+Three cards per row where appropriate.
+
+Mobile:\
+Two cards per row or a horizontally scrollable category carousel.
+
+Every category card should be clickable and navigate to its relevant category page.
+
+---
+
+## 9. BESTSELLERS / FEATURED PRODUCTS
+
+Create a premium product showcase section.
+
+Eyebrow:\
+"CURATED FOR YOUR HOME"
+
+Heading:\
+"Customer Favorites"
+
+Right-side link:\
+"VIEW ALL PRODUCTS →"
+
+Display four featured product cards on desktop.
+
+Products:
+
+1. The Haven Three-Seater Sofa\
+   Price: $1,899\
+   Category: Living Room
+2. The Oakwood Dining Table\
+   Price: $1,249\
+   Category: Dining Room
+3. The Milo Accent Chair\
+   Price: $699\
+   Category: Accent Furniture
+4. The Rowan Wooden Sideboard\
+   Price: $1,099\
+   Category: Storage
+
+### Product imagery
+
+Every product must have a beautiful, high-quality, realistic product photograph.
+
+Requirements:
+
+- Neutral studio or professionally styled interior backgrounds.
+- Consistent image aspect ratios.
+- Accurate furniture proportions.
+- Soft natural shadows.
+- Premium editorial product photography.
+- No watermarks.
+- No text embedded in product photographs.
+
+### Product card structure
+
+Each product card should contain:
+
+1. Large product photograph.
+2. Small bestseller or new-arrival label where appropriate.
+3. Product name.
+4. Price.
+5. Star rating.
+6. Review count.
+7. Wishlist icon.
+8. Quick-add shopping bag button.
+
+Design:
+
+- White or soft ivory background.
+- Thin subtle border.
+- Approximately 8px corner radius.
+- Minimal spacing.
+- Elegant typography.
+- Consistent card heights.
+
+Hover interactions:
+
+- Image smoothly zooms in.
+- Secondary product image may appear if available.
+- Quick-add button becomes more prominent.
+- Wishlist icon changes state.
+- Card gently elevates with a subtle shadow.
+
+Add functional product buttons.
+
+Quick add must update the shopping cart.
+
+Wishlist buttons must toggle their saved state.
+
+Clicking a product must open its product detail page.
+
+On mobile, use a two-column product grid with appropriately sized images and readable product details.
+
+---
+
+## 10. EDITORIAL BRAND BANNER
+
+After the bestseller section, create a wide editorial promotional banner.
+
+Use a warm ivory background.
+
+Layout:
+
+- Left: Text and CTA.
+- Right: Large premium interior furniture photograph.
+
+Image concept:
+
+A beautiful designer living space with a dark olive upholstered lounge chair, natural wood console table, sculptural side table, minimalist ceramic accessories, and elegant wall artwork.
+
+Text:
+
+Eyebrow:\
+"DESIGNED TO INSPIRE"
+
+Heading:\
+"Modern Furniture. Made for Real Life."
+
+Description:\
+"Discover timeless pieces that balance everyday comfort, thoughtful functionality, and exceptional craftsmanship."
+
+CTA:\
+"EXPLORE THE COLLECTION"
+
+Design:
+
+- Wide landscape banner.
+- Approximately 300–360px tall on desktop.
+- Soft ivory background.
+- Image fills the right side.
+- Clean text alignment.
+- Subtle rounded corners.
+- Premium editorial art direction.
+
+On mobile, stack text above the image.
+
+---
+
+## 11. ADDITIONAL PREMIUM SECTIONS
+
+Extend the website beyond the reference while maintaining its minimalist visual language.
+
+### A. New Arrivals
+
+Section title:\
+"Fresh Perspectives"
+
+Description:\
+"Explore the latest additions to our thoughtfully curated collection."
+
+Display four product cards with the same product card design.
+
+### B. Brand Story section
+
+Use a large lifestyle photograph and an editorial text layout.
+
+Eyebrow:\
+"OUR PHILOSOPHY"
+
+Heading:\
+"Furniture That Tells a Story."
+
+Description:\
+"At Auren Living, we believe the best spaces are built around thoughtful details, honest materials, and pieces made to be enjoyed for years to come."
+
+CTA:\
+"DISCOVER OUR STORY"
+
+### C. Craftsmanship section
+
+Create three visual feature blocks:
+
+- Thoughtful Materials
+- Exceptional Craftsmanship
+- Designed to Last
+
+Use beautiful detail photographs showing wood textures, fabric, and furniture construction.
+
+### D. Newsletter section
+
+Use a warm beige or ivory background.
+
+Heading:\
+"Make Yourself at Home."
+
+Description:\
+"Be the first to discover new collections, design inspiration, and exclusive offers."
+
+Include:
+
+- Email input.
+- Subscribe button.
+- Small privacy disclaimer.
+- Functional validation and success message.
+
+---
+
+## 12. PRODUCT DETAIL PAGE
+
+Create a professional individual product page.
+
+The product detail page must include:
+
+Left side:
+
+- Large main product image.
+- Thumbnail gallery.
+- Multiple product angles.
+- Zoom interaction.
+- Smooth image switching.
+
+Right side:
+
+- Product category.
+- Product name.
+- Star rating and reviews.
+- Price.
+- Short description.
+- Available colors.
+- Material information.
+- Size options if relevant.
+- Quantity selector.
+- Add to Cart button.
+- Buy Now button.
+- Delivery information.
+- Returns information.
+- Product specifications.
+- Expandable details and FAQ sections.
+
+Include related products below the main product details.
+
+The layout must be responsive and visually consistent with the homepage.
+
+---
+
+## 13. SHOPPING FUNCTIONALITY
+
+Implement a functional front-end e-commerce experience.
+
+Required features:
+
+- Add to cart.
+- Remove from cart.
+- Update product quantities.
+- Calculate subtotal.
+- Display cart item count.
+- Wishlist functionality.
+- Product search.
+- Product category filtering.
+- Sorting by price and popularity.
+- Product detail navigation.
+- Newsletter form validation.
+- Responsive mobile menu.
+- Persistent cart and wishlist using localStorage.
+
+Create a beautiful slide-out shopping cart drawer.
+
+The cart drawer should include:
+
+- Product thumbnails.
+- Product names.
+- Prices.
+- Quantity controls.
+- Remove option.
+- Subtotal.
+- Continue Shopping link.
+- Checkout CTA.
+
+Create a clean checkout interface with:
+
+- Contact information.
+- Shipping details.
+- Order summary.
+- Payment interface styling.
+
+Do not falsely claim that real payments or orders are processed. If no payment gateway or backend credentials are configured, clearly implement a demo checkout flow and structure it for future integration.
+
+---
+
+## 14. SHOP AND COLLECTION PAGES
+
+Create a professional shop listing page.
+
+Include:
+
+- Page title and introductory text.
+- Category navigation.
+- Product grid.
+- Filters.
+- Price range selection.
+- Sorting dropdown.
+- Product count.
+- Product cards.
+- Breadcrumb navigation.
+
+Create collection pages for:
+
+- Living Room.
+- Dining Room.
+- Bedroom.
+- Home Office.
+- Outdoor Living.
+
+Each page should use relevant furniture photography and display matching products.
+
+---
+
+## 15. FOOTER DESIGN
+
+Create a sophisticated, full-width premium footer.
+
+Use a deep charcoal or dark olive background.
+
+Divide the footer into four columns on desktop.
+
+### Column 1: Brand
+
+AUREN LIVING
+
+"Thoughtfully designed furniture for the spaces that matter most."
+
+Include elegant social media icons:
+
+- Instagram
+- Pinterest
+- Facebook
+
+### Column 2: Explore
+
+- Shop All
+- Living Room
+- Dining Room
+- Bedroom
+- New Arrivals
+- Bestsellers
+
+### Column 3: Customer Care
+
+- Contact Us
+- Shipping Information
+- Returns & Exchanges
+- FAQs
+- Care Guide
+- Order Tracking
+
+### Column 4: About
+
+- Our Story
+- Our Philosophy
+- Craftsmanship
+- Journal
+- Privacy Policy
+- Terms & Conditions
+
+Add a newsletter subscription area if space permits.
+
+Bottom footer strip:
+
+- Copyright © 2026 Auren Living.
+- Privacy Policy.
+- Terms of Service.
+- Shipping & Returns.
+
+Use warm ivory text, muted secondary text, subtle dividers, and elegant hover effects.
+
+Mobile footer should use clean collapsible accordion sections.
+
+---
+
+## 16. IMAGE GENERATION AND VISUAL ASSET REQUIREMENTS
+
+This is extremely important.
+
+Generate or source all required high-quality images automatically wherever the available tools support it.
+
+Do not leave empty image containers.
+
+Do not use gray placeholders.
+
+Do not use broken image links.
+
+Do not use random unrelated stock photographs.
+
+Create a cohesive visual photography system across the entire website.
+
+Generate these image categories:
+
+1. Main luxury living room hero photograph.
+2. Living room category photograph.
+3. Dining room category photograph.
+4. Bedroom category photograph.
+5. Home office category photograph.
+6. Outdoor furniture category photograph.
+7. Three-seater sofa product photograph.
+8. Oak dining table product photograph.
+9. Accent chair product photograph.
+10. Wooden sideboard product photograph.
+11. Editorial olive chair and console banner photograph.
+12. New arrivals product photographs.
+13. Brand story interior photograph.
+14. Craftsmanship and material-detail photographs.
+
+### Image art direction
+
+All generated images should share:
+
+- Warm neutral color grading.
+- Natural sunlight.
+- Realistic shadows.
+- Architectural interior photography.
+- Premium furniture styling.
+- Natural oak, walnut, linen, stone, wool, and ceramic textures.
+- Sophisticated minimalist decor.
+- High-resolution photorealistic quality.
+
+Maintain consistent visual lighting and photography quality.
+
+For product photographs, show the furniture clearly and avoid distorted shapes or unrealistic proportions.
+
+If image generation is unavailable, use reliable, direct image URLs from appropriate royalty-free image providers and ensure all images load correctly.
+
+Prefer locally stored optimized image assets for final deployment.
+
+Never create a website that depends on missing images.
+
+---
+
+## 17. ANIMATIONS AND MICRO-INTERACTIONS
+
+Use subtle, premium animations.
+
+Do not over-animate.
+
+Implement:
+
+- Smooth page transitions where appropriate.
+- Fade-in and upward motion on section entry.
+- Staggered product card animations.
+- Gentle image zoom on hover.
+- Button hover transitions.
+- Animated navigation underline.
+- Smooth dropdown menus.
+- Shopping cart drawer slide-in.
+- Wishlist heart animation.
+- Quantity control transitions.
+- Smooth anchor scrolling.
+- Subtle sticky-header transition.
+- Mobile menu slide-in.
+- Newsletter success animation.
+
+Use Intersection Observer for scroll-triggered animations where appropriate.
+
+Respect the user's reduced-motion preferences.
+
+Animations should feel smooth and sophisticated, not distracting.
+
+---
+
+## 18. RESPONSIVE DESIGN REQUIREMENTS
+
+The website must be fully responsive across all devices.
+
+### Desktop: 1200px and above
+
+- Wide centered content containers.
+- Maximum content width approximately 1320px.
+- Five-column category grid where space allows.
+- Four-column product grid.
+- Full navigation.
+- Large editorial hero.
+- Spacious section padding.
+
+### Tablet: 768px–1199px
+
+- Adapted navigation.
+- Three-column or two-column product grids.
+- Two- or three-column category layouts.
+- Smaller heading sizes.
+- Balanced spacing.
+- Proper image cropping.
+
+### Mobile: 320px–767px
+
+- Compact header.
+- Working hamburger navigation.
+- Proper logo sizing.
+- Touch-friendly buttons.
+- Stacked hero content.
+- Two-column category/product layouts where practical.
+- Responsive product images.
+- Mobile-friendly shopping cart drawer.
+- Collapsible footer.
+- No horizontal page overflow.
+- No clipped text.
+- No overlapping elements.
+- Proper spacing between sections.
+
+Test layouts at:
+
+- 320px.
+- 375px.
+- 390px.
+- 430px.
+- 768px.
+- 1024px.
+- 1280px.
+- 1440px.
+
+Every section must look intentionally designed at every breakpoint.
+
+Do not simply shrink the desktop layout.
+
+---
+
+## 19. TECHNICAL IMPLEMENTATION
+
+Build the website using a modern, maintainable frontend architecture.
+
+Preferred stack:
+
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS or clean, modular CSS.
+- Lucide React icons.
+- React Router for navigation.
+
+Use reusable components.
+
+Suggested structure:
+
+- Header
+- AnnouncementBar
+- Navigation
+- HeroSection
+- BenefitsBar
+- CategorySection
+- ProductCard
+- ProductGrid
+- EditorialBanner
+- NewArrivals
+- BrandStory
+- CraftsmanshipSection
+- Newsletter
+- Footer
+- CartDrawer
+- Wishlist
+- Search
+- ProductDetail
+- ShopPage
+- CollectionPage
+- CheckoutPage
+
+Use clean, maintainable code.
+
+Requirements:
+
+- No unnecessary dependencies.
+- No broken imports.
+- No console errors.
+- No nonfunctional buttons.
+- No missing assets.
+- No horizontal overflow.
+- Proper semantic HTML.
+- Accessible labels.
+- Keyboard navigation.
+- SEO-friendly structure.
+- Optimized image loading.
+- Lazy loading below-the-fold images.
+- Appropriate alt attributes.
+- Clean URL routing.
+- Persistent shopping state.
+
+Create a reusable design system with consistent spacing, typography, colors, buttons, and card styles.
+
+---
+
+## 20. SEO AND PERFORMANCE
+
+Make the website ready for professional deployment.
+
+Implement:
+
+- SEO-friendly page titles.
+- Meta descriptions.
+- Open Graph metadata.
+- Semantic heading structure.
+- Descriptive image alt text.
+- Sitemap-ready routing structure.
+- Robots.txt.
+- Favicon.
+- Optimized images.
+- Web font optimization.
+- Lazy loading.
+- Responsive image sizing.
+- Fast initial rendering.
+- Minimal layout shifts.
+
+Aim for excellent Lighthouse performance, accessibility, SEO, and best practices.
+
+---
+
+## 21. HOSTINGER DEPLOYMENT COMPATIBILITY
+
+The finished project must be deployable on Hostinger.
+
+Important requirements:
+
+- Use a production-ready Vite build.
+- Ensure `npm run build` works successfully.
+- Provide a complete package.json.
+- Include all required configuration files.
+- Include a clear project folder structure.
+- Ensure all images and assets resolve correctly.
+- Configure client-side routing fallback for static hosting.
+- Provide the necessary `.htaccess` configuration for Hostinger Apache hosting if using React Router.
+- Do not depend on development-only server features.
+- Do not hardcode localhost URLs.
+- Ensure production asset paths work correctly.
+- Provide a README with installation, build, and deployment instructions.
+
+The finished application should be exportable as a complete project and uploadable to Hostinger's public_html directory after production build.
+
+---
+
+## 22. FINAL DESIGN QUALITY REQUIREMENTS
+
+The final website must meet these standards:
+
+1. The homepage must immediately communicate luxury furniture branding.
+2. The hero image must be visually stunning.
+3. Typography must feel editorial and premium.
+4. Every section must have consistent spacing and alignment.
+5. Furniture images must look realistic and professionally art-directed.
+6. Product cards must look like a real luxury furniture store.
+7. Buttons must have polished hover and active states.
+8. Navigation must be functional.
+9. Cart and wishlist interactions must work.
+10. All pages must be responsive.
+11. Footer must feel complete and professional.
+12. No placeholder content or empty image boxes.
+13. No broken images or missing components.
+14. No generic dashboard-style UI.
+15. No excessive gradients or unnecessary decorations.
+16. No unfinished sections.
+17. No dead-end navigation links.
+18. Maintain a consistent premium brand identity throughout.
+
+---
+
+## 23. EXECUTION INSTRUCTIONS
+
+Now build the actual website, not just a design description or a static mockup.
+
+Follow this order:
+
+1. Establish the original Auren Living visual identity.
+2. Create the complete responsive design system.
+3. Build the global header and navigation.
+4. Build the homepage sections in the exact order specified.
+5. Generate or source the required premium furniture images.
+6. Build product cards and category cards.
+7. Implement product detail and collection pages.
+8. Implement search, cart, wishlist, and checkout interfaces.
+9. Build the newsletter and complete footer.
+10. Add responsive behavior and animations.
+11. Test every button, link, interaction, and navigation route.
+12. Fix all visual and technical errors.
+13. Run the production build and resolve any errors.
+14. Prepare the complete Hostinger-ready project.
+
+**MOST IMPORTANT DESIGN INSTRUCTION:**
+
+Prioritize visual quality and accurate execution over adding unnecessary features.
+
+The website should closely follow the reference's overall visual direction: warm ivory backgrounds, elegant serif typography, spacious layouts, sophisticated furniture photography, clean category cards, premium product grids, editorial promotional banners, and a beautifully balanced footer.
+
+However, create an original brand and original content.
+
+I want the final result to look like a premium $10,000 agency-designed furniture e-commerce website, not an ordinary AI-generated template.
+
+Do not stop after generating the homepage concept. Complete the actual functional website and all essential supporting pages.
+
+**FINAL DELIVERABLE:** A complete, beautiful, responsive, functional, production-ready AUREN LIVING furniture e-commerce website with all required source files and assets, ready for deployment on Hostinger.
+
+Set up your writing style with ChatGPT PlusUpgrade

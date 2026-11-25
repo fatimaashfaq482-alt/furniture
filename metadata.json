@@ -1,0 +1,6 @@
+{
+  "name": "Auren Living",
+  "description": "Thoughtfully Designed. Beautifully Lived. Luxury minimalist Scandinavian and contemporary furniture e-commerce storefront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
