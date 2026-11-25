@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Auren Living</title>
+    <script>
+      (function () {
+        var path = window.location.pathname;
+        var search = window.location.search;
+        var hash = window.location.hash;
+        if (!hash) {
+          var segments = path.split('/').filter(Boolean);
+          var base = segments.length > 0 ? '/' + segments[0] + '/' : '/';
+          window.location.replace(base + (search ? search : '') + '#/');
+        }
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>

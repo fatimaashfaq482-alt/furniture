@@ -85,12 +85,51 @@ function AppShell() {
   );
 }
 
+class AppErrorBoundary extends React.Component<
+  { children: React.ReactNode },
+  { hasError: boolean }
+> {
+  constructor(props: { children: React.ReactNode }) {
+    super(props);
+    this.state = { hasError: false };
+  }
+
+  static getDerivedStateFromError(): { hasError: boolean } {
+    return { hasError: true };
+  }
+
+  render() {
+    if (this.state.hasError) {
+      return (
+        <div className="min-h-screen bg-[#F8F6F2] text-[#242522] flex items-center justify-center p-6 text-center">
+          <div className="max-w-md space-y-4">
+            <h1 className="font-serif text-3xl font-normal">Auren Living</h1>
+            <p className="text-sm text-[#77736D]">
+              Something interrupted the storefront display. Please refresh the page to continue.
+            </p>
+            <button
+              type="button"
+              onClick={() => window.location.reload()}
+              className="px-6 py-3 bg-[#20221F] text-[#F8F6F2] text-xs tracking-[0.14em] uppercase rounded-[4px]"
+            >
+              Reload Page
+            </button>
+          </div>
+        </div>
+      );
+    }
+    return this.props.children;
+  }
+}
+
 export default function App() {
   return (
-    <HashRouter>
-      <StoreProvider>
-        <AppShell />
-      </StoreProvider>
-    </HashRouter>
+    <AppErrorBoundary>
+      <HashRouter>
+        <StoreProvider>
+          <AppShell />
+        </StoreProvider>
+      </HashRouter>
+    </AppErrorBoundary>
   );
 }
